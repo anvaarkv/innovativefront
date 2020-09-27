@@ -16,7 +16,7 @@
                 </div>
                 </div>
             </div>
-           <div class="col-md-3 offset-md-3" v-if="!dataSingle.length">
+           <div class="col-md-3 offset-md-3" v-if="!dataList.length">
                 <img :src="this.imgloader" alt="">
             </div>
         </div>

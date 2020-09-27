@@ -1,6 +1,6 @@
 # Innovative Frontend (VueJS MateWeather App)
 
-#How to setup
+# How to setup
 
 Git clone https://github.com/anvaarkv/innovativefront.git innovativefront
 cd innovativefront
@@ -19,8 +19,8 @@ then open url on which app is running (127.0.0.1:8000) etc.
 these are available routes for this application
 
 
-baseurl/#/
-baseurl/#/weather/:woeid
-baseurl/#/search/cityname
+ - baseurl/#/
+ - baseurl/#/weather/:woeid
+ - baseurl/#/search/cityname
 
 
